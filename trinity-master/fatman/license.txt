@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fat Man Bomb
+* source:	https://sketchfab.com/3d-models/fat-man-bomb-721603c94a5248db988e2396c65296ad
+* author:	raphi14 (https://sketchfab.com/raphi14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fat Man Bomb" (https://sketchfab.com/3d-models/fat-man-bomb-721603c94a5248db988e2396c65296ad) by raphi14 (https://sketchfab.com/raphi14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
